@@ -182,5 +182,4 @@ classDiagram
     DataPipeline <|-- NamesPipeline
 ```
 
-## Note
-The code was written with AI assistance. I ran it and reviewed it myself.
+
